@@ -1,0 +1,12 @@
+*{
+    font-family: 'Futura Md BT', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-size: 19px;
+}
+.navbar-nav{
+    justify-content: center;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 50px
+}
